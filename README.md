@@ -4,8 +4,8 @@ Parcours d'apprentissage personnel en C++ bas niveau / low-latency.
 
 ## Étapes
 
-- [ ] 1. `01-fundamentals/` — C++ moderne : RAII, sémantique de valeur et de move, templates (en cours)
-- [ ] 2. `02-hardware/` — architecture machine : cache, false sharing, prédiction de branchement
+- [x] 1. `01-fundamentals/` — C++ moderne : RAII, sémantique de valeur et de move, templates
+- [ ] 2. `02-hardware/` — architecture machine : cache, false sharing, prédiction de branchement (en cours)
 - [ ] 3. `03-cache-structures/` — structures cache-friendly : flat map vs map, mesuré avec perf
 - [ ] 4. `04-lockfree/` — concurrence lock-free : atomics, memory ordering, queue SPSC
 - [ ] 5. `05-profiling/` — perf, flamegraphs, méthode top-down Intel
